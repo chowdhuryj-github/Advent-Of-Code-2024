@@ -1,2 +1,2 @@
-# advent-of-code-2024
+# Advent-Of-Code-2024
 This is a simple repository dedicated to the advent of code 2024 challenges!
